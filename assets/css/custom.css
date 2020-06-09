@@ -1,0 +1,31 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+
+.jelajah_areas{
+	padding-top: 20px;
+	padding-bottom: 0;
+}
+.jelajah_areas>.main_title{
+	margin-bottom: 0;
+}
+
+#carousel-home-2 .owl-carousel .owl-slide{
+	height: 300px;
+}
+
+.old_price{
+	text-decoration: none;
+}
+
+.grid_item .price_box{
+	margin-bottom: 0;
+}
+
+.hr-item{
+	margin: 5px 0;
+}
+
+.divider{
+	margin-top: 10px;
+}
